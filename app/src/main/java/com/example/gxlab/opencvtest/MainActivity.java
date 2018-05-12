@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    // Testing for cloning
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
